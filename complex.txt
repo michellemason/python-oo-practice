@@ -1,0 +1,20 @@
+# fruits
+
+pear
+apple 
+banana
+orange
+pomegranate
+grape
+blueberry
+
+# veggies
+
+carrot
+kale
+spinach
+
+broccoli
+soybean
+
+lettuce
